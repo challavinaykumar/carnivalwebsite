@@ -11,5 +11,6 @@
     <groupId>com.example</groupId>
     <artifactId>react_test</artifactId>
     <version>1.0</version>
+         <packaging>war</packaging>
 
 </project>
